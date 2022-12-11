@@ -1,0 +1,77 @@
+{
+	"requestID": "7ae41b8b-9d61-4e76-93d4-dc07fb7bd411",
+	"signature": {
+		"*": "*"
+	},
+	"results": [ {
+		"city" : "Abancay"
+	}, {
+		"city" : "Arequipa"
+	}, {
+		"city" : "Ayacucho"
+	}, {
+		"city" : "Cajamarca"
+	}, {
+		"city" : "Callao"
+	}, {
+		"city" : "Cerro de Pasco"
+	}, {
+		"city" : "Chachapoyas"
+	}, {
+		"city" : "Chiclayo"
+	}, {
+		"city" : "Chimbote"
+	}, {
+		"city" : "Chincha Alta"
+	}, {
+		"city" : "Cuzco"
+	}, {
+		"city" : "Huancavelica"
+	}, {
+		"city" : "Huancayo"
+	}, {
+		"city" : "Huanuco"
+	}, {
+		"city" : "Huaraz"
+	}, {
+		"city" : "Ica"
+	}, {
+		"city" : "Iquitos"
+	}, {
+		"city" : "Juliaca"
+	}, {
+		"city" : "Lima"
+	}, {
+		"city" : "Moquegua"
+	}, {
+		"city" : "Moyobamba"
+	}, {
+		"city" : "Piura"
+	}, {
+		"city" : "Pucallpa"
+	}, {
+		"city" : "Puerto Maldonado"
+	}, {
+		"city" : "Puno"
+	}, {
+		"city" : "Sullana"
+	}, {
+		"city" : "Tacna"
+	}, {
+		"city" : "Talara"
+	}, {
+		"city" : "Trujillo"
+	}, {
+		"city" : "Tumbes"
+	} ]
+	,
+	"plans":{},
+	"status": "success",
+	"metrics": {
+		"elapsedTime": "242.513137ms",
+		"executionTime": "241.308164ms",
+		"resultCount": 30,
+		"resultSize": 772,
+		"processedObjects": 1
+	}
+}

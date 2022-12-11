@@ -1,0 +1,18 @@
+{
+	"requestID": "5dc720ee-8191-400a-a7f6-daa6f8211fe5",
+	"signature": {
+		"*": "*"
+	},
+	"errors": [{ 
+		"code": 1,		"msg": "ASX1085: A datatype with this name countryType already exists (in line 5, at column 1)"	} 
+	],
+	"status": "fatal",
+	"metrics": {
+		"elapsedTime": "191.544604ms",
+		"executionTime": "187.250525ms",
+		"resultCount": 0,
+		"resultSize": 0,
+		"processedObjects": 0,
+		"errorCount": 1
+	}
+}

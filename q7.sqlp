@@ -1,0 +1,9 @@
+SELECT c.`-car_code` as country_code,
+    c.name as country_name,
+    seas
+FROM geo.world x, x.mondial.country c
+    LET seas = (SELECT s.name as sea
+    FROM x.mondial.sea s, split(s.`-country`, " ") c2
+    WHERE c2 = c.`-car_code`)
+WHERE array_count(seas) >= 2
+ORDER BY array_count(seas) DESC;

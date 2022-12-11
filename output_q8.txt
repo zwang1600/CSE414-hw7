@@ -1,0 +1,197 @@
+{
+	"requestID": "86e6d449-7e9b-4c05-b35d-6efcfc63f77d",
+	"signature": {
+		"*": "*"
+	},
+	"results": [ {
+		"area" : 2717300.0,
+		"country_code" : "KAZ",
+		"country_name" : "Kazakstan"
+	}, {
+		"area" : 1565000.0,
+		"country_code" : "MNG",
+		"country_name" : "Mongolia"
+	}, {
+		"area" : 1284000.0,
+		"country_code" : "TCH",
+		"country_name" : "Chad"
+	}, {
+		"area" : 1267000.0,
+		"country_code" : "RN",
+		"country_name" : "Niger"
+	}, {
+		"area" : 1240000.0,
+		"country_code" : "RMM",
+		"country_name" : "Mali"
+	}, {
+		"area" : 1127127.0,
+		"country_code" : "ETH",
+		"country_name" : "Ethiopia"
+	}, {
+		"area" : 1098580.0,
+		"country_code" : "BOL",
+		"country_name" : "Bolivia"
+	}, {
+		"area" : 752610.0,
+		"country_code" : "Z",
+		"country_name" : "Zambia"
+	}, {
+		"area" : 647500.0,
+		"country_code" : "AFG",
+		"country_name" : "Afghanistan"
+	}, {
+		"area" : 622980.0,
+		"country_code" : "RCA",
+		"country_name" : "Central African Republic"
+	}, {
+		"area" : 600370.0,
+		"country_code" : "RB",
+		"country_name" : "Botswana"
+	}, {
+		"area" : 488100.0,
+		"country_code" : "TM",
+		"country_name" : "Turkmenistan"
+	}, {
+		"area" : 447400.0,
+		"country_code" : "UZB",
+		"country_name" : "Uzbekistan"
+	}, {
+		"area" : 406750.0,
+		"country_code" : "PY",
+		"country_name" : "Paraguay"
+	}, {
+		"area" : 390580.0,
+		"country_code" : "ZW",
+		"country_name" : "Zimbabwe"
+	}, {
+		"area" : 274200.0,
+		"country_code" : "BF",
+		"country_name" : "Burkina Faso"
+	}, {
+		"area" : 236800.0,
+		"country_code" : "LAO",
+		"country_name" : "Laos"
+	}, {
+		"area" : 236040.0,
+		"country_code" : "EAU",
+		"country_name" : "Uganda"
+	}, {
+		"area" : 207600.0,
+		"country_code" : "BY",
+		"country_name" : "Belarus"
+	}, {
+		"area" : 198500.0,
+		"country_code" : "KGZ",
+		"country_name" : "Kyrgyzstan"
+	}, {
+		"area" : 143100.0,
+		"country_code" : "TAD",
+		"country_name" : "Tajikistan"
+	}, {
+		"area" : 140800.0,
+		"country_code" : "NEP",
+		"country_name" : "Nepal"
+	}, {
+		"area" : 118480.0,
+		"country_code" : "MW",
+		"country_name" : "Malawi"
+	}, {
+		"area" : 93030.0,
+		"country_code" : "H",
+		"country_name" : "Hungary"
+	}, {
+		"area" : 86600.0,
+		"country_code" : "AZ",
+		"country_name" : "Azerbaijan"
+	}, {
+		"area" : 83850.0,
+		"country_code" : "A",
+		"country_name" : "Austria"
+	}, {
+		"area" : 78703.0,
+		"country_code" : "CZ",
+		"country_name" : "Czech Republic"
+	}, {
+		"area" : 77474.0,
+		"country_code" : "SRB",
+		"country_name" : "Serbia"
+	}, {
+		"area" : 48845.0,
+		"country_code" : "SK",
+		"country_name" : "Slovakia"
+	}, {
+		"area" : 47000.0,
+		"country_code" : "BHT",
+		"country_name" : "Bhutan"
+	}, {
+		"area" : 41290.0,
+		"country_code" : "CH",
+		"country_name" : "Switzerland"
+	}, {
+		"area" : 33700.0,
+		"country_code" : "MD",
+		"country_name" : "Moldova"
+	}, {
+		"area" : 30350.0,
+		"country_code" : "LS",
+		"country_name" : "Lesotho"
+	}, {
+		"area" : 29800.0,
+		"country_code" : "ARM",
+		"country_name" : "Armenia"
+	}, {
+		"area" : 27830.0,
+		"country_code" : "BI",
+		"country_name" : "Burundi"
+	}, {
+		"area" : 26340.0,
+		"country_code" : "RWA",
+		"country_name" : "Rwanda"
+	}, {
+		"area" : 25333.0,
+		"country_code" : "MK",
+		"country_name" : "Macedonia"
+	}, {
+		"area" : 17360.0,
+		"country_code" : "SD",
+		"country_name" : "Swaziland"
+	}, {
+		"area" : 10887.0,
+		"country_code" : "KOS",
+		"country_name" : "Kosovo"
+	}, {
+		"area" : 5860.0,
+		"country_code" : "WEST",
+		"country_name" : "West Bank"
+	}, {
+		"area" : 2586.0,
+		"country_code" : "L",
+		"country_name" : "Luxembourg"
+	}, {
+		"area" : 450.0,
+		"country_code" : "AND",
+		"country_name" : "Andorra"
+	}, {
+		"area" : 160.0,
+		"country_code" : "FL",
+		"country_name" : "Liechtenstein"
+	}, {
+		"area" : 60.0,
+		"country_code" : "RSM",
+		"country_name" : "San Marino"
+	}, {
+		"area" : 0.44,
+		"country_code" : "V",
+		"country_name" : "Holy See"
+	} ]
+	,
+	"plans":{},
+	"status": "success",
+	"metrics": {
+		"elapsedTime": "530.895931ms",
+		"executionTime": "526.797878ms",
+		"resultCount": 45,
+		"resultSize": 3607,
+		"processedObjects": 1
+	}
+}

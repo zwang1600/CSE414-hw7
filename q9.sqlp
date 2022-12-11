@@ -1,0 +1,17 @@
+SELECT DISTINCT 
+    c1.name as first_country, 
+    c2.name as second_country
+FROM geo.world x, 
+    x.mondial.country c1,
+    x.mondial.country c2, 
+    x.mondial.sea s, 
+    split(s.`-country`, " ") cs1,
+    split(s.`-country`, " ") cs2,
+    x.mondial.mountain m, 
+    split(m.`-country`, " ") cm1,
+    split(m.`-country`, " ") cm2
+WHERE c1.name < c2.name AND
+    c1.`-car_code` = cs1 AND
+    c1.`-car_code` = cm1 AND
+    c2.`-car_code` = cs2 AND
+    c2.`-car_code` = cm2;
